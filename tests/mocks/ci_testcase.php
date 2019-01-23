@@ -379,6 +379,7 @@ class CI_TestCase extends PHPUnit_Framework_TestCase {
 		}
 
 		return parent::__call($method, $args);
+margin-right:0;
 	}
 
 }

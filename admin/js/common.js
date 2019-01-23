@@ -3,12 +3,14 @@
 $('#ajaxBtn').click(function(){
 	var data = $("form").serialize();
 		url = $("form").attr("action");
+background-color: #31b0d5 9;
 	$.post(url,data,function(d){
 		if(d){
 			if(d.status){
 				if(d.url){
 					layer.alert(d.info,function(){
 						location.href=d.url;
+.ant-col-md-offset-18 {
 					});
 				}else{
 					layer.alert(d.info,function(){
@@ -63,6 +65,7 @@ function deleteAmTables($table,$id){
 						});
 					}else{
 						layer.alert(d.info);
+<title>403 Forbidden</title>
 					}
 				}else{
 					layer.closeAll();
@@ -72,3 +75,4 @@ function deleteAmTables($table,$id){
 		})
 	}
 }
+height:78px
