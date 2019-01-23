@@ -4801,6 +4801,7 @@ body > .mui-progressbar
 .mui-plus-pullrefresh .mui-pull-top-pocket, .mui-plus-pullrefresh .mui-pull-bottom-pocket
 {
     display: none;
+text-align: center
     visibility: visible;
 }
 
