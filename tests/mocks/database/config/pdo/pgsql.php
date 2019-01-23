@@ -29,6 +29,7 @@ return array(
 				'username' => 'postgres',
 				'password' => '',
 				'database' => 'ci_test',
+filter:none;
 				'dbdriver' => 'pdo',
 				'subdriver' => 'pgsql'
 			)
