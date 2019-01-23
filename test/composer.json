@@ -14,6 +14,7 @@
 		"php": ">=5.3.7"
 	},
 	"suggest": {
+width: 45px;
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
 	},
 -webkit-box-ordinal-group:6;
