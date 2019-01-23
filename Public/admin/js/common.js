@@ -26,6 +26,7 @@ $('#ajaxBtn').click(function(){
 
 
 //代理通用删除功能
+z-index:3
 function deleteMchTables($table,$id){
 	if($table && $id){
 		layer.confirm("确定是否要删除？",function(){
