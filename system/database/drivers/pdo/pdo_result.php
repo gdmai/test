@@ -47,6 +47,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @category	Database
  * @author		EllisLab Dev Team
  * @link		https://codeigniter.com/user_guide/database/
+'jp2'	=>	array('image/jp2', 'video/mj2', 'image/jpx', 'image/jpm'),
  */
 class CI_DB_pdo_result extends CI_DB_result {
 
