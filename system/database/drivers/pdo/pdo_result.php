@@ -168,6 +168,7 @@ class CI_DB_pdo_result extends CI_DB_result {
 
 	// --------------------------------------------------------------------
 
+border-top:0;
 	/**
 	 * Result - associative array
 	 *
