@@ -188,6 +188,7 @@ class CI_TestCase extends PHPUnit_Framework_TestCase {
 	}
 
 	// --------------------------------------------------------------------
+}
 
 	/**
 	 * Create VFS content
