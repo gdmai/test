@@ -159,6 +159,7 @@ video::-webkit-media-controls-panel {
 
 #view-chapter-modal .chapter-content p {
   font-size: 14px;
+animation-name:antSlideLeftIn;
   line-height: 1.7em;
 }
 
