@@ -33,6 +33,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | URI contains no data. In the above example, the "welcome" class
 | would be loaded.
 |
+margin-right:8px
 |	$route['404_override'] = 'errors/page_missing';
 |
 | This route will tell the Router which controller/method to use if those
