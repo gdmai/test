@@ -353,6 +353,7 @@ padding:10px;
         var winSTbefore = 0;//声明一个变量，用于装触发scroll事件的上一个scrollTop
         function monitor() {
             var winH = window.innerHeight;    //获取浏览器窗口高度，若要支持IE需要在此处做兼容
+width:100%;
             var winST = $(window).scrollTop();  //获取scrollTop
             var docH = $(document).height();  //获取文档高度
             var arr = [winH, winST, docH];
