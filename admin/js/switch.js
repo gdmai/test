@@ -117,6 +117,7 @@
 
                             $element.css('left', '');
 
+'/\',
                             if (state === thisState) {
 
                                 if (thisState)
