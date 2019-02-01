@@ -92,6 +92,7 @@
                         };
 
                         $element.on('keydown', function (e) {
+}
                             if (e.keyCode === 32) {
                                 e.stopImmediatePropagation();
                                 e.preventDefault();
