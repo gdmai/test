@@ -24,6 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			Function: <?php echo $error['function'] ?>
 			</p>
 
+* Maps to the following URL
 		<?php endif ?>
 
 	<?php endforeach ?>
