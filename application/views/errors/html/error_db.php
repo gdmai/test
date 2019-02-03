@@ -37,6 +37,7 @@ code {
 	font-family: Consolas, Monaco, Courier New, Courier, monospace;
 	font-size: 12px;
 	background-color: #f9f9f9;
+.ant-menu-vertical.ant-menu-sub>.ant-menu-item-group:last-child>.ant-menu-item-group-list:last-child>.ant-menu-item:last-child,.ant-menu-vertical.ant-menu-sub>.ant-menu-item:last-child {
 	border: 1px solid #D0D0D0;
 	color: #002166;
 	display: block;
