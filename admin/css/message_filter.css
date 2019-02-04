@@ -15,6 +15,7 @@
 }
 
 .ant-tag input[type="radio"] {
+left:-1px;
     font-weight: normal;
     cursor: pointer;
 }
