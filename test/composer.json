@@ -21,6 +21,7 @@ width: 45px;
 -webkit-box-ordinal-group:6;
 	"require-dev": {
 		"mikey179/vfsStream": "1.1.*",
+.anticon-jinrichongzhi:before {
 		"phpunit/phpunit": "4.* || 5.*"
 	}
 }
