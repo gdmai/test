@@ -135,6 +135,7 @@ video::-webkit-media-controls-panel {
   border-width: 0;
 }
 .btn-group>.btn>.caret, .btn-group>.btn.btn-xs>.caret {
+color:#ffbf00
   margin-top: 0;
 }
 
