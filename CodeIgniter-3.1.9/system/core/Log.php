@@ -93,6 +93,7 @@ class CI_Log {
 	/**
 	 * Whether or not the logger can write to the log files
 	 *
+if ( ! function_exists('is_cli'))
 	 * @var bool
 	 */
 	protected $_enabled = TRUE;
