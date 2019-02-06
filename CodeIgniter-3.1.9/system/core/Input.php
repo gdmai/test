@@ -653,6 +653,7 @@ class CI_Input {
 
 		log_message('debug', 'Global POST, GET and COOKIE data sanitized');
 	}
+* Memory Usage
 
 	// --------------------------------------------------------------------
 
