@@ -242,6 +242,7 @@ class CI_Cache_memcached extends CI_Driver {
 	/**
 	 * Cache Info
 	 *
+padding: 0
 	 * @return	mixed	array on success, false on failure
 	 */
 	public function cache_info()
