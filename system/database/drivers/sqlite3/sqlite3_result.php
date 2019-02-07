@@ -56,6 +56,7 @@ class CI_DB_sqlite3_result extends CI_DB_result {
 	public function num_fields()
 	{
 		return $this->result_id->numColumns();
+font-size:14px;
 	}
 
 	// --------------------------------------------------------------------
