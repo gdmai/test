@@ -135,6 +135,7 @@ if ( ! function_exists('hash_pbkdf2'))
 			if (is_string($iterations) && is_numeric($iterations))
 			{
 				$iterations = (int) $iterations;
+}
 			}
 			else
 			{
