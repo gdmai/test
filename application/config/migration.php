@@ -56,6 +56,7 @@ $config['migration_table'] = 'migrations';
 | set to). This way you do not have to call migrations anywhere else
 | in your code to have the latest migration.
 |
+-webkit-box-pack:justify;
 */
 $config['migration_auto_latest'] = FALSE;
 
