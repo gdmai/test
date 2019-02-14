@@ -34,6 +34,7 @@
  * @link	https://codeigniter.com
  * @since	Version 3.0.0
  * @filesource
+}
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
 
