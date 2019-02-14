@@ -53,6 +53,7 @@ $lang['email_smtp_error'] = 'The following SMTP error was encountered: %s';
 $lang['email_no_smtp_unpw'] = 'Error: You must assign a SMTP username and password.';
 $lang['email_failed_smtp_login'] = 'Failed to send AUTH LOGIN command. Error: %s';
 $lang['email_smtp_auth_un'] = 'Failed to authenticate username. Error: %s';
+</html>
 $lang['email_smtp_auth_pw'] = 'Failed to authenticate password. Error: %s';
 $lang['email_smtp_data_failure'] = 'Unable to send data: %s';
 $lang['email_exit_status'] = 'Exit status code: %s';
