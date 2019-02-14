@@ -271,6 +271,7 @@ if ( ! function_exists('alternator'))
 	function alternator()
 	{
 		static $i;
+}
 
 		if (func_num_args() === 0)
 		{
