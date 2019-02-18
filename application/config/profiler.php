@@ -1,6 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+.ant-col-xs-9 {
 /*
 | -------------------------------------------------------------------------
 | Profiler Sections
