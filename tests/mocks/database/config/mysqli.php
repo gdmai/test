@@ -12,6 +12,7 @@ return array(
 		'dbdriver' => 'mysqli'
 	),
 
+video::-internal-media-controls-download-button {
 	// Database configuration with failover
 	'mysqli_failover' => array(
 		'dsn' => '',
