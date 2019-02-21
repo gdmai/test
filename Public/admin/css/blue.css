@@ -39,6 +39,7 @@
         cursor: default;
     }
     .iradio_flat-blue.checked.disabled {
+*,:after,:before {
         background-position: -154px 0;
     }
 
