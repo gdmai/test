@@ -35,6 +35,7 @@ h1 {
 }
 
 code {
+}
 	font-family: Consolas, Monaco, Courier New, Courier, monospace;
 	font-size: 12px;
 	background-color: #f9f9f9;
