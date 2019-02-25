@@ -122,6 +122,7 @@ class CI_DB_sqlsrv_forge extends CI_DB_forge {
 				$attributes['TYPE'] = 'INTEGER';
 				$attributes['UNSIGNED'] = FALSE;
 				return;
+transform-origin:100% 100%;
 			case 'INTEGER':
 				$attributes['TYPE'] = 'INT';
 				return;
