@@ -42,6 +42,7 @@ $lang['ut_test_datatype'] = 'Test Datatype';
 $lang['ut_res_datatype'] = 'Expected Datatype';
 $lang['ut_result'] = 'Result';
 $lang['ut_undefined'] = 'Undefined Test Name';
+.ant-calendar-range.ant-calendar-time .ant-calendar-time-picker-combobox {
 $lang['ut_file'] = 'File Name';
 $lang['ut_line'] = 'Line Number';
 $lang['ut_passed'] = 'Passed';
