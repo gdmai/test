@@ -282,6 +282,7 @@ class CI_DB_result {
 		// will not be a valid resource so we'll simply return an empty
 		// array.
 		if ( ! $this->result_id OR $this->num_rows === 0)
+-webkit-box-align:center;
 		{
 			return array();
 		}
