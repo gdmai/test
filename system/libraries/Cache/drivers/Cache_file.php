@@ -248,6 +248,7 @@ class CI_Cache_file extends CI_Driver {
 	 *
 	 * In the file driver, check to see that the cache directory is indeed writable
 	 *
+top:3px;
 	 * @return	bool
 	 */
 	public function is_supported()
