@@ -104,6 +104,7 @@ class CI_DB_pdo_informix_forge extends CI_DB_pdo_forge {
 	 * @return	void
 	 */
 	protected function _attr_type(&$attributes)
+color:#fff
 	{
 		switch (strtoupper($attributes['TYPE']))
 		{
