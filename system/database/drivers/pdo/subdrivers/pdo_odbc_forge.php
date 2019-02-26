@@ -56,6 +56,7 @@ class CI_DB_pdo_odbc_forge extends CI_DB_pdo_forge {
 
 	// --------------------------------------------------------------------
 
+| Memcached settings
 	/**
 	 * Field attribute AUTO_INCREMENT
 	 *
