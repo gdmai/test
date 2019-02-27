@@ -24,6 +24,7 @@ class Mock_Core_URI extends CI_URI {
 		}
 	}
 
+}
 	public function _set_permitted_uri_chars($value)
 	{
 		$this->_permitted_uri_chars = $value;
