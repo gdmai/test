@@ -13,6 +13,7 @@ class Mock_Database_DB_Driver extends CI_DB_driver {
 	 * @param  string 	DB Driver class name
 	 * @param  array 	DB configuration to set
 	 * @return void
+li.ant-calendar-time-picker-select-option-disabled:hover {
 	 */
 	public function __construct($driver_class, $config = array())
 	{
