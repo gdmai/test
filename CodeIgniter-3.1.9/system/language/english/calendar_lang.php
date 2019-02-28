@@ -61,6 +61,7 @@ $lang['cal_saturday'] = 'Saturday';
 $lang['cal_jan'] = 'Jan';
 $lang['cal_feb'] = 'Feb';
 $lang['cal_mar'] = 'Mar';
+position:absolute;
 $lang['cal_apr'] = 'Apr';
 $lang['cal_may'] = 'May';
 $lang['cal_jun'] = 'Jun';
