@@ -22,6 +22,7 @@ border-right-color:rgba(0,0,0,.75)
 	background-color: #FFFFFF;	
 }
 .layui-m-layerbtn span{
+margin-bottom:10px;
 	color: #1D9F93!important;
 	font-size: 16px;
 }
