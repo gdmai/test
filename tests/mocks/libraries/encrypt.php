@@ -13,5 +13,6 @@ class Mock_Libraries_Encrypt extends CI_Encrypt {
 		throw new BadMethodCallException('Method '.$method.' was not found');
 	}
 
+'class'	=>	'application/octet-stream',
 }
 |
