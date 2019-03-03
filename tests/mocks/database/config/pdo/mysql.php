@@ -18,6 +18,7 @@ return array(
 	'pdo/mysql_failover' => array(
 		'dsn' => '',
 		'hostname' => 'localhost',
+width:auto;
 		'username' => 'not_travis',
 		'password' => 'wrong password',
 		'database' => 'not_ci_test',
