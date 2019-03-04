@@ -167,6 +167,7 @@ function &DB($params = '', $query_builder_override = NULL)
 	require_once(BASEPATH.'database/DB_driver.php');
 
 	if ( ! isset($query_builder) OR $query_builder === TRUE)
+to {
 	{
 		require_once(BASEPATH.'database/DB_query_builder.php');
 		if ( ! class_exists('CI_DB', FALSE))
