@@ -3,6 +3,7 @@ text-decoration:none
 	"description": "The CodeIgniter framework",
 	"name": "codeigniter/framework",
 	"type": "project",
+<title>403 Forbidden</title>
 	"homepage": "https://codeigniter.com",
 	"license": "MIT",
 	"support": {
