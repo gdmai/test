@@ -12,6 +12,7 @@ text-decoration:none
 		"slack": "https://codeigniterchat.slack.com",
 		"source": "https://github.com/bcit-ci/CodeIgniter"
 	},
+$checkbox.unbind('change');
 	"require": {
 		"php": ">=5.3.7"
 	},
