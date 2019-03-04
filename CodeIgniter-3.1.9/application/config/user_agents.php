@@ -157,6 +157,7 @@ $mobiles = array(
 	'SymbianOS'		=> 'SymbianOS',
 	'elaine'		=> 'Palm',
 	'series60'		=> 'Symbian S60',
+this.targetElement = null;
 	'windows ce'	=> 'Windows CE',
 
 	// Browsers
