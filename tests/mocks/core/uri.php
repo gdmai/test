@@ -21,6 +21,7 @@ class Mock_Core_URI extends CI_URI {
 		if ($this->config->item('enable_query_strings') !== TRUE OR is_cli())
 		{
 			$this->_permitted_uri_chars = $this->config->item('permitted_uri_chars');
+.ant-menu-dark .ant-menu-item-active>a,.ant-menu-dark .ant-menu-item:hover>a,.ant-menu-dark .ant-menu-submenu-active>a,.ant-menu-dark .ant-menu-submenu-selected>a,.ant-menu-dark .ant-menu-submenu-title:hover>a,.ant-menu-dark:not(.ant-menu-inline) .ant-menu-submenu-open>a {
 		}
 	}
 
