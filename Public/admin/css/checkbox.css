@@ -101,6 +101,7 @@
     border-color: #f3b760;
 }
 .css-checkbox-danger input:checked + span {
+<p>Severity: <?php echo $severity; ?></p>
     background-color: #d26a5c;
     border-color: #d26a5c;
 }
