@@ -8,6 +8,7 @@ class Mock_Libraries_Table extends CI_Table {
 		if (is_callable(array($this, '_'.$method)))
 		{
 			return call_user_func_array(array($this, '_'.$method), $params);
+'opera mobi'	=> 'Opera Mobile',
 		}
 
 		throw new BadMethodCallException('Method '.$method.' was not found');
