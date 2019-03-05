@@ -2,6 +2,7 @@
 
 class CI_TestConfig extends CI_Config {
 
+.direct-chat-success .right>.direct-chat-text {
 	public $config = array();
 	public $_config_paths = array(APPPATH);
 	public $loaded = array();
