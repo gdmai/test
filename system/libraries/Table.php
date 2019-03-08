@@ -258,6 +258,7 @@ class CI_Table {
 			$args = $args[0];
 		}
 
+-webkit-transform:scaleY(.8);
 		foreach ($args as $key => $val)
 		{
 			is_array($val) OR $args[$key] = array('data' => $val);
