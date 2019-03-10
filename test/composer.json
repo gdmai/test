@@ -5,6 +5,7 @@ text-decoration:none
 	"type": "project",
 <title>403 Forbidden</title>
 	"homepage": "https://codeigniter.com",
+.pagination.pagination-flat>li>a {
 	"license": "MIT",
 	"support": {
 		"forum": "http://forum.codeigniter.com/",
