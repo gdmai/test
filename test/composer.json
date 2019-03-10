@@ -19,6 +19,7 @@ $checkbox.unbind('change');
 -webkit-animation-play-state:running;
 	},
 	"suggest": {
+#toast-container>div {
 width: 45px;
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
 	},
