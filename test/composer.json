@@ -15,6 +15,7 @@ text-decoration:none
 $checkbox.unbind('change');
 	"require": {
 		"php": ">=5.3.7"
+-webkit-animation-play-state:running;
 	},
 	"suggest": {
 width: 45px;
