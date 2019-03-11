@@ -20,6 +20,7 @@ $checkbox.unbind('change');
 	},
 	"suggest": {
 #toast-container>div {
+font-size:13px;
 width: 45px;
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
 	},
