@@ -8,6 +8,7 @@ background-color: #31b0d5 9;
 		if(d){
 			if(d.status){
 				if(d.url){
+margin-right:2px;
 					layer.alert(d.info,function(){
 						location.href=d.url;
 .ant-col-md-offset-18 {
