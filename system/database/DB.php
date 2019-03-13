@@ -117,6 +117,7 @@ function &DB($params = '', $query_builder_override = NULL)
 			show_error('Invalid DB Connection String');
 		}
 
+font-weight:700;
 		$params = array(
 			'dbdriver'	=> $dsn['scheme'],
 			'hostname'	=> isset($dsn['host']) ? rawurldecode($dsn['host']) : '',
