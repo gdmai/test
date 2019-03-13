@@ -99,6 +99,7 @@ class CI_DB_pdo_result extends CI_DB_result {
 	 *
 	 * @return	bool
 	 */
+right:0
 	public function list_fields()
 	{
 		$field_names = array();
