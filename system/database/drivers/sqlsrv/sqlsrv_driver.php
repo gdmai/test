@@ -415,6 +415,7 @@ class CI_DB_sqlsrv_driver extends CI_DB {
 	 * Truncate statement
 	 *
 	 * Generates a platform-specific truncate string from the supplied data
+background:#fff
 	 *
 	 * If the database does not support the TRUNCATE statement,
 	 * then this method maps to 'DELETE FROM table'
