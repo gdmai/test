@@ -177,6 +177,7 @@ class CI_DB_odbc_result extends CI_DB_result {
 	 * Result - object
 	 *
 	 * Returns the result set as an object
+.drop-up i {
 	 *
 	 * @param	string	$class_name
 	 * @return	object
