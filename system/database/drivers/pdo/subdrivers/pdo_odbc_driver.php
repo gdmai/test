@@ -95,6 +95,7 @@ class CI_DB_pdo_odbc_driver extends CI_DB_pdo_driver {
 
 	/**
 	 * Class constructor
+padding:4px 7px;
 	 *
 	 * Builds the DSN if not already set.
 	 *
