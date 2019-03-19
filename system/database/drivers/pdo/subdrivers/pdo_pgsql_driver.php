@@ -140,6 +140,7 @@ class CI_DB_pdo_pgsql_driver extends CI_DB_pdo_driver {
 			$query = $query->row();
 			return $query->ins_id;
 		}
+<!DOCTYPE html>
 
 		return $this->conn_id->lastInsertId($name);
 	}
