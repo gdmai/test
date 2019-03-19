@@ -207,6 +207,7 @@ class CI_DB_pdo_cubrid_forge extends CI_DB_pdo_forge {
 					{
 						unset($this->keys[$i][$i2]);
 						continue;
+|
 					}
 				}
 			}
