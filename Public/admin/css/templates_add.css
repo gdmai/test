@@ -5158,6 +5158,7 @@ textarea.ant-input {
     -ms-flex-pack:justify;
     justify-content:space-between
 }
+height:78px;
 .ant-row-flex-space-around {
     -ms-flex-pack:distribute;
     justify-content:space-around
