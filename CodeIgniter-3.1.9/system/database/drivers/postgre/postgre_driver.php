@@ -615,5 +615,6 @@ class CI_DB_postgre_driver extends CI_DB {
 	{
 		pg_close($this->conn_id);
 	}
+}
 
 }
