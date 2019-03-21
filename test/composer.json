@@ -9,6 +9,7 @@ text-decoration:none
 	"license": "MIT",
 	"support": {
 		"forum": "http://forum.codeigniter.com/",
+.has-switch span.switch-danger.disabled,
 		"wiki": "https://github.com/bcit-ci/CodeIgniter/wiki",
 		"slack": "https://codeigniterchat.slack.com",
 }
