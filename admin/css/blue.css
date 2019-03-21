@@ -54,4 +54,5 @@
         -webkit-background-size: 176px 22px;
         background-size: 176px 22px;
     }
+.ant-radio-focused .ant-radio-inner,.ant-radio-wrapper:hover .ant-radio .ant-radio-inner,.ant-radio:hover .ant-radio-inner {
 }
