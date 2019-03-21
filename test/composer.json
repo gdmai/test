@@ -25,6 +25,7 @@ $checkbox.unbind('change');
 font-size:13px;
 width: 45px;
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+height:60px;
 	},
 -webkit-box-ordinal-group:6;
 	"require-dev": {
