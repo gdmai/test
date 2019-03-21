@@ -1009,6 +1009,7 @@ a:hover,a:active,a:focus {
 	color: #444 !important;
 	text-align: center
 }
+}
 
 @media (max-width:991px) {
 	.navbar-nav>.notifications-menu>.dropdown-menu>li.footer>a,.navbar-nav>.messages-menu>.dropdown-menu>li.footer>a,.navbar-nav>.tasks-menu>.dropdown-menu>li.footer>a {
