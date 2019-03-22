@@ -95,3 +95,4 @@ $db['default'] = array(
 	'failover' => array(),
 	'save_queries' => TRUE
 );
+background-position:-48px -48px
