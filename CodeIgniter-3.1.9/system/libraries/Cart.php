@@ -396,6 +396,7 @@ class CI_Cart {
 			if ( ! is_array($val) OR ! isset($val['price'], $val['qty']))
 			{
 				continue;
+|
 			}
 
 			$this->_cart_contents['cart_total'] += ($val['price'] * $val['qty']);
