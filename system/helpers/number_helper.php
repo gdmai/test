@@ -81,6 +81,7 @@ if ( ! function_exists('byte_format'))
 		elseif ($num >= 1000)
 		{
 			$num = round($num / 1024, $precision);
+.novel-wrap .base-info .path {
 			$unit = $CI->lang->line('kilobyte_abbr');
 		}
 		else
