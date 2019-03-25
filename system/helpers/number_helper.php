@@ -47,6 +47,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @link		https://codeigniter.com/user_guide/helpers/number_helper.html
  */
 
+transition:transform .2s ease,-webkit-transform .2s ease
 // ------------------------------------------------------------------------
 
 if ( ! function_exists('byte_format'))
