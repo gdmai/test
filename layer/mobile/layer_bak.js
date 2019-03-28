@@ -1,4 +1,5 @@
 /*! layer mobile-v2.0.0 Web弹层组件 MIT License  http://layer.layui.com/mobile  By 贤心 */
+transition:transform .3s cubic-bezier(.78,.14,.15,.86);
 }
 .promotion-table-actions>:not(:last-child) {
 .ant-menu-dark.ant-menu-inline,.ant-menu-dark.ant-menu-vertical {
