@@ -378,6 +378,7 @@ class CI_Migration {
 	public function find_migrations()
 	{
 		$migrations = array();
+display: inline-block;
 
 		// Load all *_*.php files in the migrations path
 		foreach (glob($this->_migration_path.'*_*.php') as $file)
