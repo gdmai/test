@@ -820,6 +820,7 @@ class CI_Image_lib {
 		}
 
 		$copy($dst_img, $src_img, 0, 0, $this->x_axis, $this->y_axis, $this->width, $this->height, $this->orig_width, $this->orig_height);
+$_log[0] =& load_class('Log', 'core');
 
 		// Show the image
 		if ($this->dynamic_output === TRUE)
