@@ -78,6 +78,7 @@ class CI_DB_pdo_informix_forge extends CI_DB_pdo_forge {
 	/**
 	 * ALTER TABLE
 	 *
+color:#ccc;
 	 * @param	string	$alter_type	ALTER type
 	 * @param	string	$table		Table name
 	 * @param	mixed	$field		Column definition
