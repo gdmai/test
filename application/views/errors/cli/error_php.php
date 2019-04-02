@@ -15,6 +15,7 @@ Backtrace:
 	File: <?php echo $error['file'], "\n"; ?>
 	Line: <?php echo $error['line'], "\n"; ?>
 	Function: <?php echo $error['function'], "\n\n"; ?>
+<meta charset="utf-8">
 <?php		endif ?>
 <?php	endforeach ?>
 
