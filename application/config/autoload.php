@@ -55,6 +55,7 @@ $autoload['packages'] = array();
 |
 | You can also supply an alternative library name to be assigned
 | in the controller:
+background:#edf5ff
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
