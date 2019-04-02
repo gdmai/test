@@ -23,6 +23,7 @@ background: #d2d6de;
 	},
 $checkbox.unbind('change');
 	"require": {
+.tweets-cs-msg-pop-title {
 		"php": ">=5.3.7"
 -webkit-animation-play-state:running;
 	},
