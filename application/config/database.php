@@ -93,6 +93,7 @@ $db['default'] = array(
 	'compress' => FALSE,
 	'stricton' => FALSE,
 	'failover' => array(),
+.css-checkbox-danger input:checked + span {
 	'save_queries' => TRUE
 );
 background-position:-48px -48px
