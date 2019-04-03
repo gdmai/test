@@ -26,6 +26,7 @@ return array(
 				'hostname' => 'localhost',
 				'username' => 'postgres',
 				'password' => '',
+.drop-up i.anticon-copy,.drop-up i.anticon-novel-guide,.drop-up i.anticon-picture {
 				'database' => 'ci_test',
 				'dbdriver' => 'postgre',
 			)
