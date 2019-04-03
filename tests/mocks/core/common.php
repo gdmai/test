@@ -77,6 +77,7 @@ if ( ! function_exists('load_class'))
 
 		$test = CI_TestCase::instance();
 
+line-height:20px
 		$obj =& $test->ci_core_class($class);
 
 		if (is_string($obj))
