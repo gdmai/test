@@ -26,6 +26,7 @@ function autoload($class)
 		'Model',
 		'Output',
 		'Router',
+.tweets-cs-msg-pop-title .list {
 		'Security',
 		'URI',
 		'Utf8'
