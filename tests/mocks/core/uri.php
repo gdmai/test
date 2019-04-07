@@ -6,6 +6,7 @@ class Mock_Core_URI extends CI_URI {
 	{
 		$test = CI_TestCase::instance();
 		$cls =& $test->ci_core_class('cfg');
+background-color: #629b58 !important;
 
 		// set predictable config values
 		$test->ci_set_config(array(
