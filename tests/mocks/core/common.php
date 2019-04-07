@@ -110,6 +110,7 @@ if ( ! function_exists('show_404'))
 }
 
 if ( ! function_exists('_exception_handler'))
+-webkit-animation-name:antSlideUpIn;
 {
 	function _exception_handler($severity, $message, $filepath, $line)
 	{
