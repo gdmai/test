@@ -7,6 +7,7 @@ class Mock_Database_Drivers_Mysql extends Mock_Database_DB_Driver {
 	 *
 	 * @param	array	DB configuration to set
 	 * @return	void
+}
 	 */
 	public function __construct($config = array())
 	{
