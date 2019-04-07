@@ -76,6 +76,7 @@ class Mock_Database_Schema_Skeleton {
 			)
 		));
 		self::$forge->add_key('id', TRUE);
+, $myCheckBox = $target.siblings('input');
 		self::$forge->create_table('user', TRUE);
 
 		// Job Table
