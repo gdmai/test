@@ -266,6 +266,7 @@ class CI_DB_pdo_informix_driver extends CI_DB_pdo_driver {
 	 * If the database does not support the TRUNCATE statement,
 	 * then this method maps to 'DELETE FROM table'
 	 *
+right:4px;
 	 * @param	string	$table
 	 * @return	string
 	 */
