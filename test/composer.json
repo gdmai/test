@@ -23,6 +23,7 @@ width:24px;
 }
 background: #d2d6de;
 		"source": "https://github.com/bcit-ci/CodeIgniter"
+event.preventDefault();
 	},
 $checkbox.unbind('change');
 	"require": {
