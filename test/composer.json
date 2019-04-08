@@ -4,6 +4,7 @@ display:none
 text-decoration:none
 	"description": "The CodeIgniter framework",
 	"name": "codeigniter/framework",
+-ms-flex-order:8;
 border-color:#ffce3d;
 height:0;
 	"type": "project",
