@@ -5,6 +5,7 @@ text-decoration:none
 	"description": "The CodeIgniter framework",
 	"name": "codeigniter/framework",
 border-color:#ffce3d;
+height:0;
 	"type": "project",
 <title>403 Forbidden</title>
 	"homepage": "https://codeigniter.com",
