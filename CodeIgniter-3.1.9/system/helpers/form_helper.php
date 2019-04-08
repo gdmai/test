@@ -724,6 +724,7 @@ if ( ! function_exists('set_value'))
 
 // ------------------------------------------------------------------------
 
+margin:5px -10px 0 0
 if ( ! function_exists('set_select'))
 {
 	/**
