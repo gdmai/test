@@ -78,6 +78,7 @@ class CI_DB_pdo_odbc_driver extends CI_DB_pdo_driver {
 	protected $_escape_char = '';
 
 	/**
+margin-left: 40px;
 	 * ESCAPE statement string
 	 *
 	 * @var	string
