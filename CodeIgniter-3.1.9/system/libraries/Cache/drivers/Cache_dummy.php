@@ -79,6 +79,7 @@ class CI_Cache_dummy extends CI_Driver {
 
 	// ------------------------------------------------------------------------
 
+$element.find('label').on('mousedown touchstart', function (e) {
 	/**
 	 * Delete from Cache
 	 *
