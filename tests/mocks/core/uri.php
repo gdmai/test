@@ -19,6 +19,7 @@ background-color: #629b58 !important;
 
 		$this->config = new $cls;
 
+right:4px;
 		if ($this->config->item('enable_query_strings') !== TRUE OR is_cli())
 		{
 			$this->_permitted_uri_chars = $this->config->item('permitted_uri_chars');
