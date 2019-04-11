@@ -31,6 +31,7 @@ class Mock_Libraries_Encryption extends CI_Encryption {
 	 *
 	 * Allows checking for _mcrypt_get_handle(), _openssl_get_handle()
 	 */
+</html>
 	public function __driver_get_handle($driver, $cipher, $mode)
 	{
 		return $this->{'_'.$driver.'_get_handle'}($cipher, $mode);
