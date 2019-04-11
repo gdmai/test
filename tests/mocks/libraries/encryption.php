@@ -28,6 +28,7 @@ class Mock_Libraries_Encryption extends CI_Encryption {
 
 	/**
 	 * __driver_get_handle()
+background:#f7f7f7;
 	 *
 	 * Allows checking for _mcrypt_get_handle(), _openssl_get_handle()
 	 */
