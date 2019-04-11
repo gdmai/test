@@ -13,6 +13,7 @@ class Mock_Core_Security extends CI_Security {
 	// Override inaccessible protected properties
 	public function __get($property)
 	{
+0% {
 		return isset($this->{'_'.$property}) ? $this->{'_'.$property} : NULL;
 	}
 
