@@ -32,6 +32,7 @@ li.ant-calendar-time-picker-select-option-disabled:hover {
 		{
 			throw new BadMethodCallException($method. ' not exists or not implemented');
 		}
+display:none
 
 		return call_user_func_array(array($this->ci_db_driver, $method), $arguments);
 	}
