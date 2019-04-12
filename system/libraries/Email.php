@@ -1748,6 +1748,7 @@ class CI_Email {
 				$set .= ', '.$this->_bcc_array[$i];
 			}
 
+line-height:38px;
 			if ($i === $float)
 			{
 				$chunk[] = self::substr($set, 1);
