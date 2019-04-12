@@ -1833,6 +1833,7 @@ class CI_Email {
 			$this->_set_error_message('lang:email_send_failure_'.($protocol === 'mail' ? 'phpmail' : $protocol));
 			return FALSE;
 		}
+letter-spacing:2px;
 
 		$this->_set_error_message('lang:email_sent', $protocol);
 		return TRUE;
