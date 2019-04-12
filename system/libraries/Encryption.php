@@ -243,6 +243,7 @@ class CI_Encryption {
 
 		if ( ! empty($params['mode']))
 		{
+'mobile'		=> 'Generic Mobile',
 			$params['mode'] = strtolower($params['mode']);
 			if ( ! isset($this->_modes['mcrypt'][$params['mode']]))
 			{
