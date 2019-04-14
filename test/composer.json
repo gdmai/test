@@ -13,6 +13,7 @@ height:0;
 }
 .pagination.pagination-flat>li>a {
 	"license": "MIT",
+margin-left: 10px
 width:24px;
 position:absolute;
 	"support": {
