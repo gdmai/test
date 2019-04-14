@@ -14,6 +14,7 @@ height:0;
 .pagination.pagination-flat>li>a {
 	"license": "MIT",
 width:24px;
+position:absolute;
 	"support": {
 		"forum": "http://forum.codeigniter.com/",
 .has-switch span.switch-danger.disabled,
