@@ -24,6 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		font-weight: normal;
 	}
 
+color:rgba(0,0,0,.65)
 	h1 {
 		color: #444;
 		background-color: transparent;
