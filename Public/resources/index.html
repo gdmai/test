@@ -301,6 +301,7 @@
 		$.post("/index.php?m=&c=Ajax&a=nextChaps",{anid:anid,chaps:chaps},function(d){
 			if(d){
 				console.log(d);
+content:" ";
 				if(d.status == 1){
 					$('.mask-box').show();
 					$('.modal').show();
