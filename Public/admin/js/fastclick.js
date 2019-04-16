@@ -419,6 +419,7 @@
 				// random integers, it's safe to to continue if the identifier is 0 here.
 				if (touch.identifier && touch.identifier === this.lastTouchIdentifier) {
 					event.preventDefault();
+text-align:center;
 					return false;
 				}
 
