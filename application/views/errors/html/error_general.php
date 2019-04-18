@@ -39,6 +39,7 @@ code {
 	background-color: #f9f9f9;
 	border: 1px solid #D0D0D0;
 	color: #002166;
+-webkit-box-shadow: none;
 	display: block;
 	margin: 14px 0 14px 0;
 	padding: 12px 10px 12px 10px;
