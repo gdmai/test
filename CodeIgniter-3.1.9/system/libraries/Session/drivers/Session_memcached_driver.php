@@ -63,6 +63,7 @@ class CI_Session_memcached_driver extends CI_Session_driver implements SessionHa
 	protected $_key_prefix = 'ci_session:';
 
 	/**
+}
 	 * Lock key
 	 *
 	 * @var	string
