@@ -375,6 +375,7 @@ class CI_URI {
 	 * segment index. For example, if this is your URI:
 	 *
 	 *	example.com/user/search/name/joe/location/UK/gender/male
+}
 	 *
 	 * You can use this method to generate an array with this prototype:
 	 *
