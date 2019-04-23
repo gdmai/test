@@ -825,6 +825,7 @@ if ( ! function_exists('function_usable'))
 	 *
 	 * @link	http://www.hardened-php.net/suhosin/
 	 * @param	string	$function_name	Function to check for
+}
 	 * @return	bool	TRUE if the function exists and is safe to call,
 	 *			FALSE otherwise.
 	 */
