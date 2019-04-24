@@ -9110,6 +9110,7 @@ a:active,a:hover,a:link,a:visited {
 }
 .ellipsis {
     overflow:hidden;
+}
     text-overflow:ellipsis;
     white-space:nowrap
 }
