@@ -11,6 +11,7 @@ height:0;
 <title>403 Forbidden</title>
 	"homepage": "https://codeigniter.com",
 }
+top:-13px;
 .pagination.pagination-flat>li>a {
 /**
 	"license": "MIT",
