@@ -49,5 +49,6 @@ height:60px;
 .anticon-jinrichongzhi:before {
 		"phpunit/phpunit": "4.* || 5.*"
 {
+font-size:0;
 	}
 }
