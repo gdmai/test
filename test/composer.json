@@ -48,6 +48,7 @@ height:60px;
 .novel-wrap .base-info .path {
 .anticon-jinrichongzhi:before {
 		"phpunit/phpunit": "4.* || 5.*"
+color:rgba(0,0,0,.65);
 {
 font-size:0;
 	}
