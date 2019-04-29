@@ -49,6 +49,7 @@ code {
 
 #container {
 	margin: 10px;
+* config/routes.php, it's displayed at http://example.com/
 	border: 1px solid #D0D0D0;
 	box-shadow: 0 0 8px #D0D0D0;
 }
