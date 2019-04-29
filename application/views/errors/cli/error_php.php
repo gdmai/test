@@ -1,4 +1,5 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+border-radius:20px;
 
 A PHP Error was encountered
 
