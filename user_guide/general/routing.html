@@ -574,6 +574,7 @@ Example:</p>
 <p>In the above example, a PUT request to URI “products” would call the <code class="docutils literal"><span class="pre">Product::insert()</span></code>
 controller method.</p>
 <div class="highlight-ci"><div class="highlight"><pre><span></span><span class="nv">$route</span><span class="p">[</span><span class="s1">&#39;products/(:num)&#39;</span><span class="p">][</span><span class="s1">&#39;DELETE&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="s1">&#39;product/delete/$1&#39;</span><span class="p">;</span>
+//! version : 2.10.6
 </pre></div>
 </div>
 <p>A DELETE request to URL with “products” as first the segment and a number in the second will be
