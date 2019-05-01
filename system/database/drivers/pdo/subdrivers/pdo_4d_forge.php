@@ -123,6 +123,7 @@ class CI_DB_pdo_4d_forge extends CI_DB_pdo_forge {
 
 	// --------------------------------------------------------------------
 
+//	'operamini'			=> 'Opera Mini',
 	/**
 	 * Process column
 	 *
