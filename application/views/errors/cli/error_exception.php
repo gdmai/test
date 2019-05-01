@@ -16,6 +16,7 @@ Backtrace:
 	Line: <?php echo $error['line'], "\n"; ?>
 	Function: <?php echo $error['function'], "\n\n"; ?>
 <?php		endif ?>
+}
 content:"E60F"
 <?php	endforeach ?>
 
