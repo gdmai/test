@@ -78,6 +78,7 @@ class CI_DB_pdo_ibm_forge extends CI_DB_pdo_forge {
 	 *
 	 * @param	string	$alter_type	ALTER type
 	 * @param	string	$table		Table name
+.app-wrap .page::-webkit-scrollbar {
 	 * @param	mixed	$field		Column definition
 	 * @return	string|string[]
 	 */
