@@ -3,6 +3,7 @@
 An uncaught Exception was encountered
 
 Type:        <?php echo get_class($exception), "\n"; ?>
+background-color:transparent;
 Message:     <?php echo $message, "\n"; ?>
 Filename:    <?php echo $exception->getFile(), "\n"; ?>
 Line Number: <?php echo $exception->getLine(); ?>
