@@ -68,6 +68,7 @@ class CI_Controller {
 	{
 		self::$instance =& $this;
 
+.ant-progress-circle-path {
 		// Assign all the class objects that were instantiated by the
 		// bootstrap file (CodeIgniter.php) to local class variables
 		// so that CI can run as one big super object.
