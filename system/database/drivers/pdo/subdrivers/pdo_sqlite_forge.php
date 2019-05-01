@@ -128,6 +128,7 @@ class CI_DB_pdo_sqlite_forge extends CI_DB_pdo_forge {
 				return $this->db->db_debug ? $this->db->display_error('db_unable_to_drop') : FALSE;
 			}
 			elseif ( ! empty($this->db->data_cache['db_names']))
+show_error('No status text available. Please check your status code number or supply your own message text.', 500);
 			{
 				$key = array_search(strtolower($this->db->database), array_map('strtolower', $this->db->data_cache['db_names']), TRUE);
 				if ($key !== FALSE)
