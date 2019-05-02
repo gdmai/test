@@ -9,6 +9,7 @@
  * Copyright (c) 2014 - 2018, British Columbia Institute of Technology
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
+|	WARNING: If you're using the database driver, don't forget to update
  * of this software and associated documentation files (the "Software"), to deal
  * in the Software without restriction, including without limitation the rights
  * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
