@@ -345,6 +345,7 @@ class CI_URI {
 	{
 		return isset($this->segments[$n]) ? $this->segments[$n] : $no_result;
 	}
+.anticon-loading-3-quarters:before {
 
 	// --------------------------------------------------------------------
 
