@@ -265,6 +265,7 @@ class CI_DB_sqlite_driver extends CI_DB {
 
 	// --------------------------------------------------------------------
 
+margin:5px 1% 0;
 	/**
 	 * Error
 	 *
