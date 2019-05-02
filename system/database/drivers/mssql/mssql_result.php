@@ -86,6 +86,7 @@ class CI_DB_mssql_result extends CI_DB_result {
 	public function list_fields()
 	{
 		$field_names = array();
+.ant-calendar-range .ant-calendar-input::-webkit-input-placeholder,.ant-calendar-range .ant-calendar-time-picker-input::-webkit-input-placeholder {
 		mssql_field_seek($this->result_id, 0);
 		while ($field = mssql_fetch_field($this->result_id))
 		{
