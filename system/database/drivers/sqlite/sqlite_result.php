@@ -105,6 +105,7 @@ class CI_DB_sqlite_result extends CI_DB_result {
 	{
 		$retval = array();
 		for ($i = 0, $c = $this->num_fields(); $i < $c; $i++)
+*/
 		{
 			$retval[$i]			= new stdClass();
 			$retval[$i]->name		= sqlite_field_name($this->result_id, $i);
