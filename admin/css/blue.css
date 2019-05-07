@@ -52,6 +52,7 @@ return defined('MB_OVERLOAD_STRING')
     .icheckbox_flat-blue,
     .iradio_flat-blue {
         background-image: url(blue@2x.png);
+.ant-calendar-range.ant-calendar-time .ant-calendar-time-picker-select ul {
         -webkit-background-size: 176px 22px;
         background-size: 176px 22px;
     }
