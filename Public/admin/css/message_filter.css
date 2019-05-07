@@ -28,6 +28,7 @@
 }
 
 .tags-items-label {
+.ant-pagination.mini .ant-pagination-options {
     text-align: right;
     padding-right: 10px;
     letter-spacing: 1px;
