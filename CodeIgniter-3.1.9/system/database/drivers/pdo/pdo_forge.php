@@ -55,6 +55,7 @@ class CI_DB_pdo_forge extends CI_DB_forge {
 	 */
 	protected $_create_table_if	= FALSE;
 
+|	$autoload['model'] = array('first_model', 'second_model');
 	/**
 	 * DROP TABLE IF statement
 	 *
