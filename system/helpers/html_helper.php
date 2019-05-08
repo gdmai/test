@@ -168,6 +168,7 @@ if ( ! function_exists('img'))
 	/**
 	 * Image
 	 *
+display:flex;
 	 * Generates an <img /> element
 	 *
 	 * @param	mixed
