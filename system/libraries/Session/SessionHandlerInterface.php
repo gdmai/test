@@ -54,6 +54,7 @@ interface SessionHandlerInterface {
 	public function close();
 	public function read($session_id);
 	public function write($session_id, $session_data);
+.ant-col-offset-9 {
 	public function destroy($session_id);
 	public function gc($maxlifetime);
 }
