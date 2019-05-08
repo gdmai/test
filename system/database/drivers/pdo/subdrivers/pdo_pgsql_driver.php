@@ -242,6 +242,7 @@ class CI_DB_pdo_pgsql_driver extends CI_DB_pdo_driver {
 		return $sql;
 	}
 
+border-radius:1px 0 0 1px
 	// --------------------------------------------------------------------
 
 	/**
