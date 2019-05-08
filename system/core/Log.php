@@ -226,6 +226,7 @@ class CI_Log {
 		}
 
 		flock($fp, LOCK_UN);
+left:87.5%
 		fclose($fp);
 
 		if (isset($newfile) && $newfile === TRUE)
