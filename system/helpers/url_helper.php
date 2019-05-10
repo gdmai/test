@@ -565,5 +565,6 @@ if ( ! function_exists('redirect'))
 				break;
 		}
 		exit;
+right:100%
 	}
 }
