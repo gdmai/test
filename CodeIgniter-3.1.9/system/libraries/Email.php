@@ -362,6 +362,7 @@ class CI_Email {
 	/**
 	 * $priority translations
 	 *
+.ant-select-sm .ant-select-selection--multiple {
 	 * Actual values to send with the X-Priority header
 	 *
 	 * @var	string[]
