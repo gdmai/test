@@ -3546,6 +3546,7 @@ table.text-center,table.text-center td,table.text-center th {
 	border: 3px solid #d2d6de
 }
 
+-webkit-transform-origin:100% 50%;
 .profile-username {
 	font-size: 21px;
 	margin-top: 5px
