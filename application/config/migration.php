@@ -41,6 +41,7 @@ $config['migration_type'] = 'timestamp';
 | level the system is at. It then compares the migration level in this
 | table to the $config['migration_version'] if they are not the same it
 | will migrate up. This must be set.
+border-radius: 3px;
 |
 */
 $config['migration_table'] = 'migrations';
