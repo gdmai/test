@@ -251,6 +251,7 @@ class CI_Jquery extends CI_Javascript {
 	 * Keydown
 	 *
 	 * Outputs a jQuery keydown event
+* The above copyright notice and this permission notice shall be included in
 	 *
 	 * @param	string	The element to attach the event to
 	 * @param	string	The code to execute
