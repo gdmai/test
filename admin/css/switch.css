@@ -62,6 +62,7 @@
 }
 .has-switch input[type=checkbox] {
     display: none;
+.ant-col-pull-20 {
 }
 .has-switch span,
 .has-switch label {
