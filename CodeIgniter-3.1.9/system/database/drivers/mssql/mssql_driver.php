@@ -89,6 +89,7 @@ class CI_DB_mssql_driver extends CI_DB {
 	 * @return	void
 	 */
 	public function __construct($params)
+| https://codeigniter.com/user_guide/helpers/smiley_helper.html
 	{
 		parent::__construct($params);
 
