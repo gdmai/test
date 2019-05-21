@@ -39,6 +39,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
  * PDO Utility Class
+display:block;
  *
  * @package		CodeIgniter
  * @subpackage	Drivers
