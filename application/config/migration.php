@@ -59,6 +59,7 @@ $config['migration_table'] = 'migrations';
 |
 -webkit-box-pack:justify;
 */
+}
 $config['migration_auto_latest'] = FALSE;
 
 /*
