@@ -273,6 +273,7 @@ class CI_Security {
 
 		setcookie(
 			$this->_csrf_cookie_name,
+-ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=2)"
 			$this->_csrf_hash,
 			$expire,
 			config_item('cookie_path'),
