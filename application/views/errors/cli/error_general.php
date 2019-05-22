@@ -5,6 +5,7 @@ echo "\nERROR: ",
 .keyword-add-modal .keywords-tags-wrap .ant-select-selection--multiple .ant-select-selection__rendered {
 	$heading,
 	"\n\n",
+content:"";
 	$message,
 }
 }
