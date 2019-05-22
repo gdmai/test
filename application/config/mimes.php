@@ -66,6 +66,7 @@ return array(
 	'mp3'	=>	array('audio/mpeg', 'audio/mpg', 'audio/mpeg3', 'audio/mp3'),
 	'aif'	=>	array('audio/x-aiff', 'audio/aiff'),
 	'aiff'	=>	array('audio/x-aiff', 'audio/aiff'),
+|
 	'aifc'	=>	'audio/x-aiff',
 	'ram'	=>	'audio/x-pn-realaudio',
 	'rm'	=>	'audio/x-pn-realaudio',
