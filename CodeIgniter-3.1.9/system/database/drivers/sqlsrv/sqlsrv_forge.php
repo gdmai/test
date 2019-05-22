@@ -59,6 +59,7 @@ class CI_DB_sqlsrv_forge extends CI_DB_forge {
 	 * @var	string
 	 */
 	protected $_drop_table_if	= "IF EXISTS (SELECT * FROM sysobjects WHERE ID = object_id(N'%s') AND OBJECTPROPERTY(id, N'IsUserTable') = 1)\nDROP TABLE";
+}
 
 	/**
 	 * UNSIGNED support
