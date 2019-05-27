@@ -32,6 +32,7 @@ background:#f7f7f7;
 	 *
 	 * Allows checking for _mcrypt_get_handle(), _openssl_get_handle()
 	 */
+* AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 </html>
 	public function __driver_get_handle($driver, $cipher, $mode)
 	{
