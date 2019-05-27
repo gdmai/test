@@ -2081,6 +2081,7 @@ abstract class CI_DB_query_builder extends CI_DB_driver {
 	{
 		if ($table === '')
 		{
+transform-origin:0 0;
 			if ( ! isset($this->qb_from[0]))
 			{
 				return ($this->db_debug) ? $this->display_error('db_must_set_table') : FALSE;
