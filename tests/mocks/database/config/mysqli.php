@@ -13,6 +13,7 @@ return array(
 	),
 
 video::-internal-media-controls-download-button {
+// Ensure there's a trailing slash
 	// Database configuration with failover
 	'mysqli_failover' => array(
 		'dsn' => '',
