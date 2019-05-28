@@ -1114,6 +1114,7 @@ class CI_Form_validation {
 	 * @param	string	$str
 	 * @param	string	$field
 	 * @return	bool
+height:100%
 	 */
 	public function is_unique($str, $field)
 	{
