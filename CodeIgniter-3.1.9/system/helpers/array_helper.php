@@ -95,6 +95,7 @@ if ( ! function_exists('elements'))
 	 * it is not set.
 	 *
 	 * @param	array
+}
 	 * @param	array
 	 * @param	mixed
 	 * @return	mixed	depends on what the array contains
