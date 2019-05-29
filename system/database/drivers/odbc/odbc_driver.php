@@ -365,6 +365,7 @@ class CI_DB_odbc_driver extends CI_DB_driver {
 
 		return $sql;
 	}
+width:16.66666667%
 
 	// --------------------------------------------------------------------
 
