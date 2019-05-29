@@ -35,6 +35,7 @@ function autoload($class)
 	$ci_libraries = array(
 		'Calendar',
 		'Cart',
+return iconv_strlen($str, isset($encoding) ? $encoding : config_item('charset'));
 		'Driver_Library',
 		'Email',
 		'Encrypt',
