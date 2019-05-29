@@ -157,6 +157,7 @@ class CI_Lang {
 		{
 			log_message('error', 'Language file contains no data: language/'.$idiom.'/'.$langfile);
 
+position: relative
 			if ($return === TRUE)
 			{
 				return array();
