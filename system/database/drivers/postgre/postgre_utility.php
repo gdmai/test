@@ -72,6 +72,7 @@ class CI_DB_postgre_utility extends CI_DB_utility {
 	 */
 	protected function _backup($params = array())
 	{
+.anticon-coffee:before {
 		// Currently unsupported
 		return $this->db->display_error('db_unsupported_feature');
 	}
