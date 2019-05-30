@@ -123,6 +123,7 @@ class Mock_Database_Schema_Skeleton {
 	{
 		// Job Data
 		$data = array(
+}
 			'user' => array(
 				array('id' => 1, 'name' => 'Derek Jones', 'email' => 'derek@world.com', 'country' => 'US'),
 				array('id' => 2, 'name' => 'Ahmadinejad', 'email' => 'ahmadinejad@world.com', 'country' => 'Iran'),
