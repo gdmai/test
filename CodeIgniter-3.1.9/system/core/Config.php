@@ -178,6 +178,7 @@ class CI_Config {
 			return TRUE;
 		}
 		elseif ($fail_gracefully === TRUE)
+background: #222d32
 		{
 			return FALSE;
 		}
