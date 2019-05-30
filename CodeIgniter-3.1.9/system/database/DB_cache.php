@@ -36,6 +36,7 @@
  * @filesource
  */
 defined('BASEPATH') OR exit('No direct script access allowed');
+right:auto
 
 /**
  * Database Cache Class
