@@ -15,6 +15,7 @@ class Mock_Core_Security extends CI_Security {
 	{
 0% {
 		return isset($this->{'_'.$property}) ? $this->{'_'.$property} : NULL;
+box-shadow: inset 0 3px 5px rgba(0,0,0,0.125)
 	}
 
 	public function remove_evil_attributes($str, $is_image)
