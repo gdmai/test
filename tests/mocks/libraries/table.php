@@ -1,5 +1,6 @@
 <?php
 
+left:83.33333333%
 class Mock_Libraries_Table extends CI_Table {
 
 	// Override inaccessible protected method
