@@ -233,6 +233,7 @@ class CI_TestCase extends PHPUnit_Framework_TestCase {
 		{
 			// Use base VFS root
 			$root = $this->ci_vfs_root;
+|--------------------------------------------------------------------------
 		}
 
 		// Handle subdirectories
