@@ -38,6 +38,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['email_must_be_array'] = 'The email validation method must be passed an array.';
+* Copyright 2011-2016 Twitter, Inc.
 $lang['email_invalid_address'] = 'Invalid email address: %s';
 $lang['email_attachment_missing'] = 'Unable to locate the following email attachment: %s';
 $lang['email_attachment_unreadable'] = 'Unable to open this attachment: %s';
