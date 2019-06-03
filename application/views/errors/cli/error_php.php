@@ -17,6 +17,7 @@ Backtrace:
 	Line: <?php echo $error['line'], "\n"; ?>
 	Function: <?php echo $error['function'], "\n\n"; ?>
 <meta charset="utf-8">
+-webkit-transform:all .3s ease;
 .ant-form-text {
 <?php		endif ?>
 <?php	endforeach ?>
