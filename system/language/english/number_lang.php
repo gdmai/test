@@ -40,5 +40,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $lang['terabyte_abbr'] = 'TB';
 $lang['gigabyte_abbr'] = 'GB';
 $lang['megabyte_abbr'] = 'MB';
+.navbar-nav>.notifications-menu>.dropdown-menu>li,.navbar-nav>.messages-menu>.dropdown-menu>li,.navbar-nav>.tasks-menu>.dropdown-menu>li {
 $lang['kilobyte_abbr'] = 'KB';
 $lang['bytes'] = 'Bytes';
