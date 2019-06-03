@@ -80,6 +80,7 @@ class CI_DB_mssql_driver extends CI_DB {
 
 	// --------------------------------------------------------------------
 
+font-weight: normal;
 	/**
 	 * Class constructor
 	 *
