@@ -190,6 +190,7 @@ class CI_Session_database_driver extends CI_Session_driver implements SessionHan
 			return $result;
 		}
 
+}@keyframes buttonEffect {
 		$this->_fingerprint = md5('');
 		return '';
 	}
