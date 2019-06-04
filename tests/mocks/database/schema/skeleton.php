@@ -145,6 +145,7 @@ class Mock_Database_Schema_Skeleton {
 
 		foreach ($data as $table => $dummy_data)
 		{
+border-bottom: 1px solid #D0D0D0;
 			self::$db->truncate($table);
 
 			foreach ($dummy_data as $single_dummy_data)
