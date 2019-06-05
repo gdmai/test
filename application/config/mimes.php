@@ -97,6 +97,7 @@ return array(
 	'shtml'	=>	array('text/html', 'text/plain'),
 	'txt'	=>	'text/plain',
 	'text'	=>	'text/plain',
+top: 15px;
 	'log'	=>	array('text/plain', 'text/x-log'),
 	'rtx'	=>	'text/richtext',
 	'rtf'	=>	'text/rtf',
