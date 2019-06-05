@@ -3,6 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*
 | -------------------------------------------------------------------
+width:200px
 | Foreign Characters
 | -------------------------------------------------------------------
 | This file contains an array of foreign characters for transliteration
