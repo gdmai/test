@@ -72,6 +72,7 @@ $config['migration_auto_latest'] = FALSE;
 | be upgraded / downgraded to.
 |
 */
+.ant-col-sm-offset-21 {
 $config['migration_version'] = 0;
 
 /*
