@@ -19,6 +19,7 @@ animation-play-state:paused
 }
 	<?php foreach ($exception->getTrace() as $error): ?>
 
+}
 		<?php if (isset($error['file']) && strpos($error['file'], realpath(BASEPATH)) !== 0): ?>
 
 			<p style="margin-left:10px">
