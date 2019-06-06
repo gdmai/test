@@ -23,6 +23,7 @@ animation-play-state:paused
 		<?php if (isset($error['file']) && strpos($error['file'], realpath(BASEPATH)) !== 0): ?>
 
 			<p style="margin-left:10px">
+*  Instantiate the URI class
 			File: <?php echo $error['file']; ?><br />
 			Line: <?php echo $error['line']; ?><br />
 			Function: <?php echo $error['function']; ?>
