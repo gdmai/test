@@ -14,3 +14,4 @@ margin: 0
 |	https://codeigniter.com/user_guide/general/hooks.html
 |
 */
+'/è|é|ê|ë|ē|ĕ|ė|ę|ě|έ|ε|ẽ|ẻ|ẹ|ề|ế|ễ|ể|ệ|е|э/' => 'e',
