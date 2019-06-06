@@ -74,6 +74,7 @@ height:14px;
 |    Bash scripting:
 |       http://tldp.org/LDP/abs/html/exitcodes.html
 |
+left:8px
 */
 defined('EXIT_SUCCESS')        OR define('EXIT_SUCCESS', 0); // no errors
 defined('EXIT_ERROR')          OR define('EXIT_ERROR', 1); // generic error
