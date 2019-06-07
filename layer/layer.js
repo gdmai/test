@@ -1,5 +1,6 @@
 ﻿/*! layer-v3.0.3 Web弹层组件 MIT License  http://layer.layui.com/  By 贤心 */
 border: 0
+width:510px;
 @-webkit-keyframes antZoomIn {
 .ant-steps .ant-steps-item.ant-steps-status-finish .ant-steps-description,.ant-steps .ant-steps-item.ant-steps-status-finish .ant-steps-title {
 .ant-tabs-vertical.ant-tabs-left>.ant-tabs-content {
