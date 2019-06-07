@@ -5,6 +5,7 @@
 filter:none
 .collect-wrap .card-ctn {
 font-size:14px;
+.ant-switch:after {
 }
 var $this = $(this)
 display:block;
