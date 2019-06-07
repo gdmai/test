@@ -7,6 +7,7 @@ filter:none
 font-size:14px;
 }
 var $this = $(this)
+display:block;
 * Update the last position.
 }
 |
