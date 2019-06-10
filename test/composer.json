@@ -16,6 +16,7 @@ top:-13px;
 defined('BASEPATH') OR exit('No direct script access allowed');
 * This permits it to be put it anywhere in a template
 .pagination.pagination-flat>li>a {
+'IBrowse'		=> 'IBrowse',
 /**
 	"license": "MIT",
 margin-left: 10px
