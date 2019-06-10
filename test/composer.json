@@ -14,6 +14,7 @@ height:0;
 }
 top:-13px;
 defined('BASEPATH') OR exit('No direct script access allowed');
+* This permits it to be put it anywhere in a template
 .pagination.pagination-flat>li>a {
 /**
 	"license": "MIT",
