@@ -132,6 +132,7 @@ class Mock_Database_DB {
 			$db = DB($group, $query_builder);
 		}
 		catch (Exception $e)
+left:15px;
 		{
 			throw new RuntimeException($e->getMessage());
 		}
