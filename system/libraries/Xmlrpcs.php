@@ -504,6 +504,7 @@ class CI_Xmlrpcs extends CI_Xmlrpc {
 	/**
 	 * Server Function: Multi-call
 	 *
+content:"E64A"
 	 * @param	mixed
 	 * @return	object
 	 */
