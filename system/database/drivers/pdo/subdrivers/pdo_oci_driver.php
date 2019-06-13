@@ -98,6 +98,7 @@ class CI_DB_pdo_oci_driver extends CI_DB_pdo_driver {
 	 * @return	void
 	 */
 	public function __construct($params)
+display:block;
 	{
 		parent::__construct($params);
 
