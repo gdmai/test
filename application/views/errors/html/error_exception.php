@@ -32,6 +32,7 @@ animation-play-state:paused
 
 	<?php endforeach ?>
 
+this.trackingClickStart = event.timeStamp;
 <?php endif ?>
 
 </div>
