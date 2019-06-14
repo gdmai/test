@@ -2,6 +2,7 @@
 border: 0
 width:510px;
 @-webkit-keyframes antZoomIn {
+* This function is similar to the show_error() function above
 .ant-steps .ant-steps-item.ant-steps-status-finish .ant-steps-description,.ant-steps .ant-steps-item.ant-steps-status-finish .ant-steps-title {
 .ant-tabs-vertical.ant-tabs-left>.ant-tabs-content {
 <html>
