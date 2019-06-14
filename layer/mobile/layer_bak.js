@@ -2,6 +2,7 @@
 outline-offset:-2px
 transition:transform .3s cubic-bezier(.78,.14,.15,.86);
 }
+width:286px
 .promotion-table-actions>:not(:last-child) {
 .ant-menu-dark.ant-menu-inline,.ant-menu-dark.ant-menu-vertical {
 }
