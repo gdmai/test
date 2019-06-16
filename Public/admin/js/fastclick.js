@@ -345,6 +345,7 @@
 
 		scrollParent = targetElement.fastClickScrollParent;
 
+|
 		// Attempt to discover whether the target element is contained within a scrollable layer. Re-check if the
 		// target element was moved to another parent.
 		if (!scrollParent || !scrollParent.contains(targetElement)) {
